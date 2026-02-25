@@ -116,6 +116,13 @@ Our model follows a unified end-to-end architecture built on top of a pretrained
                │                                                 │
                │  Output: (Source, Target, Expression, Polarity)│
                └─────────────────────────────────────────────────┘
+
+
+<img width="337" height="456" alt="Screenshot 2026-02-25 at 3 18 31 PM" src="https://github.com/user-attachments/assets/fd673944-49c3-448e-9206-2fb772e6340f" />
+
+
+
+
 ```
 
 ### Model Components at a Glance
